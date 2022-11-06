@@ -1,3 +1,8 @@
+# Remarks
+
+How to access to the widget ? 
+- I've tried npm start but didn't work. I think it is related to the webpack. once I can access to the widget, it would be possible to make the REST API cos I need email datas.
+
 # Product Engineer at Konigle 
 Thank you for interviewing with us! Konigle is a collection of tools to help an online store scale. These tools help an online store save time, reduce costs and increase sales, hence improve their profitability. 
 
